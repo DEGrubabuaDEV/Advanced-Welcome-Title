@@ -1,5 +1,5 @@
 # **Advanced-Welcome-Title**
-A Minecraft spigot plugin that gives you a fully customisable welcome title.
+A Minecraft spigot 1.20 plugin that gives you a fully customisable welcome title.
 
 # Install 
 Download the latest version of the plugin and put the file into the 'plugins' folder of your Minecraft Spigot Server

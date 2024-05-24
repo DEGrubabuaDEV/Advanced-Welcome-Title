@@ -1,6 +1,4 @@
 # **Advanced-Welcome-Title**
-This plugin adds a welcome title configured by you
-Advanced Welcome Title 
 A Minecraft spigot plugin that gives you a fully customisable welcome title.
 
 # Install 

@@ -1,0 +1,23 @@
+name: AdvancedWelcomeTitle
+version: '${project.version}'
+main: de.grubabua.advancedwelcometitle.AdvancedWelcomeTitle
+api-version: '1.20'
+authors: [grubabua]
+website: https://github.com/DEGrubabuaDEV
+
+commands:
+  setFirsttitle:
+    description: Set Your First Title
+    aliases:
+  setSecondTitle:
+    description:  Set Your Second Title
+    aliases:
+  setPlayerColor:
+    description: Set Player Color
+    aliases:
+  showGradientList:
+    description: Show Gradient List
+    aliases:
+  playerJoinMessage:
+    description: Turn Join Message on/off
+    aliases:
